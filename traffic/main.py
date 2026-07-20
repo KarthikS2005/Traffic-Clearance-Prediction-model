@@ -103,4 +103,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # Create tables first
+     print("Starting data ingestion stream...")
+        
+     main()

@@ -58,3 +58,5 @@ def log_traffic_history(location_id, timestamp, public_event_type='None',
         return None
     finally:
         conn.close()
+
+
